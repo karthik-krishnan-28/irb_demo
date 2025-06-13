@@ -4,7 +4,6 @@ import streamlit as st
 # from section_generator import generate_full_protocol
 # from topic_name_sanitizer import sanitize_topic_name
 # from cover_page_generator import generate_cover_page_from_protocol
-from docx import Document
 
 st.set_page_config(page_title="IRB Generator", layout="wide")
 
@@ -87,27 +86,3 @@ with open("demo/storm_gen_article_polished.txt", 'r') as file:
 if st.session_state.submitted and st.session_state.protocol_text:
     st.subheader("Generated IRB Protocol")
     st.code(st.session_state.protocol_text, language="markdown")
-
-    # Download as Word
-    if st.button("Download Protocol as Word (.docx)"):
-        # cover_text = generate_cover_page_from_protocol(st.session_state.protocol_text)
-
-        doc = Document()
-        # doc.add_heading("Protocol Summary", 0)
-        # doc.add_paragraph(cover_text)
-
-        doc.add_heading("Full Protocol", level=1)
-        for paragraph in st.session_state.protocol_text.split("\n\n"):
-            doc.add_paragraph(paragraph.strip())
-        
-        os.makedirs(output_dir, exist_ok=True)
-        doc_path = os.path.join(output_dir, "IRB_Protocol.docx")
-        doc.save(doc_path)
-
-        with open(doc_path, "rb") as file:
-            st.download_button(
-                label="Download IRB_Protocol.docx",
-                data=file,
-                file_name="IRB_Protocol.docx",
-                mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-            )
