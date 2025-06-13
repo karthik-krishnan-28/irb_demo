@@ -1,9 +1,9 @@
 import os
 import time
 import streamlit as st
-from section_generator import generate_full_protocol
-from topic_name_sanitizer import sanitize_topic_name
-from cover_page_generator import generate_cover_page_from_protocol
+# from section_generator import generate_full_protocol
+# from topic_name_sanitizer import sanitize_topic_name
+# from cover_page_generator import generate_cover_page_from_protocol
 from docx import Document
 
 st.set_page_config(page_title="IRB Generator", layout="wide")
@@ -50,7 +50,7 @@ if "submitted" not in st.session_state:
     st.session_state.submitted = False
 
 # Inputs
-study_title = sanitize_topic_name(st.text_input("Study Title", ""))
+study_title = st.text_input("Study Title", "")
 
 st.markdown("### Study Summary Fields")
 
@@ -90,11 +90,11 @@ if st.session_state.submitted and st.session_state.protocol_text:
 
     # Download as Word
     if st.button("Download Protocol as Word (.docx)"):
-        cover_text = generate_cover_page_from_protocol(st.session_state.protocol_text)
+        # cover_text = generate_cover_page_from_protocol(st.session_state.protocol_text)
 
         doc = Document()
-        doc.add_heading("Protocol Summary", 0)
-        doc.add_paragraph(cover_text)
+        # doc.add_heading("Protocol Summary", 0)
+        # doc.add_paragraph(cover_text)
 
         doc.add_heading("Full Protocol", level=1)
         for paragraph in st.session_state.protocol_text.split("\n\n"):
