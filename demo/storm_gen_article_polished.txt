@@ -1,9 +1,10 @@
-# summary
-
 Title: A Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC)
-   Lead: A new clinical trial, titled "A Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC)," is being conducted to evaluate the safety, tolerability, and preliminary efficacy of combining zabadinostat, a histone deacetylase inhibitor, with nivolumab, an immune checkpoint inhibitor, in treating advanced metastatic microsatellite-stable colorectal cancer (MSS CRC). This trial is unique as it aims to explore the potential synergistic action of these drugs in enhancing tumor immunogenicity and sensitizing MSS CRC to PD-1 blockade. The study, which began enrollment in January 2021, is expected to last several years, and updates on its progress or results can be found on ClinicalTrials.gov using the link <https://clinicaltrials.gov/ct2/show/NCT04597863>.
+   
+Summary
 
-# Preclinical Data and Early-Phase Trials
+A new clinical trial, titled "A Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC)," is being conducted to evaluate the safety, tolerability, and preliminary efficacy of combining zabadinostat, a histone deacetylase inhibitor, with nivolumab, an immune checkpoint inhibitor, in treating advanced metastatic microsatellite-stable colorectal cancer (MSS CRC). This trial is unique as it aims to explore the potential synergistic action of these drugs in enhancing tumor immunogenicity and sensitizing MSS CRC to PD-1 blockade. The study, which began enrollment in January 2021, is expected to last several years, and updates on its progress or results can be found on ClinicalTrials.gov using the link <https://clinicaltrials.gov/ct2/show/NCT04597863>.
+
+Preclinical Data and Early-Phase Trials
 
 Preclinical data and early-phase trials have suggested that zabadinostat (CXD101), a class I/II histone deacetylase inhibitor, may enhance tumor immunogenicity and sensitize microsatellite-stable colorectal cancer (MSS CRC) to PD-1 blockade . This potential synergy between zabadinostat and immune checkpoint inhibitors could provide a promising strategy for treating MSS CRC, which remains resistant to traditional treatments.
 The rationale behind this combination stems from the role of histone deacetylases (HDACs) in regulating gene expression, particularly in the context of tumor immunogenicity. HDAC inhibitors, such as zabadinostat, can induce histone acetylation, leading to changes in chromatin structure that promote the accessibility of immune cells to tumor antigens . By enhancing tumor immunogenicity, HDAC inhibitors may make cancer cells more susceptible to recognition and elimination by the immune system.
@@ -16,42 +17,42 @@ References:
  Wang, J., et al., 2016, Histone deacetylase inhibitors enhance the antitumor activity of anti-PD-1 therapy in colorectal cancer. Journal for ImmunoTherapy of Cancer, 4(1), e37. [https://doi.org/10.1186/s40425-016-0163-z](https://doi.org/10.
  ClinicalTrials.gov, 2021, A Phase Ib Study of the Combination of CXD101, a Class I and II Histone Deacetylase Inhibitor, and Pembrolizumab in Patients with Advanced Solid Tumors (CXD-PEM) [https://clinicaltrials.gov/ct2/show/NCT02597631?term=CXD101&cntry=US](https://clinicaltrials.
 
-# Preclinical Evidence Suggesting Synergistic Effects of Zabadinostat and Nivolumab in MSS CRC Treatment
+Preclinical Evidence Suggesting Synergistic Effects of Zabadinostat and Nivolumab in MSS CRC Treatment
 
 Preclinical data have suggested a potential synergy between zabadinostat (CXD101) and nivolumab in the treatment of metastatic microsatellite-stable colorectal cancer (MSS CRC) . This synergistic effect is attributed to the combined immunogenicity enhancement and tumor sensitization properties of both agents.
 Zabadinostat, a class I/II histone deacetylase inhibitor, has been found to promote the release of neoantigens by increasing histone acetylation . This increased histone acetylation leads to an enhanced presentation of tumor-associated antigens to cytotoxic T lymphocytes (CTLs), thereby augmenting the immune response against cancer cells.
 On the other hand, nivolumab is a PD-1 blocking antibody that inhibits the immunosuppressive effects of programmed death-1 (PD-1) on activated T cells . By blocking PD-1, nivolumab allows CTLs to effectively attack and destroy cancer cells. The combination of zabadinostat and nivolumab could potentially maximize the benefits of both agents by enhancing tumor immunogenicity (through zabadinostat) and reducing immune suppression (through nivolumab).
 Moreover, preclinical studies have demonstrated that zabadinostat can sensitize MSS CRC cells to PD-1 blockade . This sensitization is mediated by the upregulation of interferon-γ (IFN-γ) and increased expression of programmed death-ligand 1 (PD-L1), which together create an immunologically favorable microenvironment. The combination of zabadinostat and nivolumab could capitalize on this synergistic effect by enhancing the sensitivity of MSS CRC cells to PD-1 blockade, leading to improved treatment outcomes.
 
-# Drug Storage, Dispensing, and Control
+Drug Storage, Dispensing, and Control
 
 In the context of the Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC), all investigational drugs, including zabadinostat and nivolumab, must be managed through the IDS Pharmacy for storage, dispensing, and control purposes. This regulation applies to both inpatient and outpatient use [1].
 For more detailed information about the IDS Pharmacy, eligible researchers can visit their dedicated website (requires NMI login) or contact them via email at nminvestigationaldrugservice@nm.org.
 Since zabadinostat has an IND, specific procedures are followed to comply with the sponsor requirements for FDA-regulated research. The holder of the IND for zabadinostat in this trial is not explicitly mentioned [1].
 
-# Open-Label, Single-Arm, Phase II Clinical Trial
+Open-Label, Single-Arm, Phase II Clinical Trial
 
 The study is designed as an open-label, single-arm, Phase II clinical trial, enrolling approximately 46 evaluable patients (#1). This type of design allows for the evaluation of a new treatment without a control group and provides information about the safety, tolerability, and preliminary efficacy of the combination therapy. The study is conducted in accordance with Good Clinical Practice guidelines and all applicable regulatory requirements (#1).
 In this trial, participants will receive zabadinostat orally once daily for 14 days in a 21-day cycle, combined with nivolumab intravenously on Day 1 of each cycle. The treatment continues until disease progression, unacceptable toxicity, or withdrawal (#1). This open-label design means that both the participants and the study team are aware of the treatment being administered. The single-arm aspect signifies that there is no comparison group receiving a different treatment or placebo in this trial. Phase II trials typically aim to evaluate the efficacy and safety of a new treatment in a larger population than Phase I trials, while still focusing on specific aspects such as dose determination and side effects (#1).
 
-# Enrollment and Study Locations
+Enrollment and Study Locations
 
 The Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC) is an open-label, single-arm study enrolling approximately 46 evaluable patients across multiple sites. The precise location of these sites has not been specified in the provided information [1]. All participating sites must adhere to the protocols involving investigational drugs as outlined by the IDS Pharmacy (accessible only via NMI login; nminvestigationaldrugservice@nm.org) [1]. This multi-site enrollment approach allows for a broader patient pool and potentially faster recruitment, facilitating the timely completion of this important study.
 
-# Drug Administration
+Drug Administration
 
 The Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC) involves the administration of two drugs: zabadinostat (CXD101) and nivolumab.
 
-## Nivolumab Administration
+Nivolumab Administration
 
 Nivolumab will be administered intravenously at a fixed dose of 240 mg on Day 1 of each 21-day cycle [1]. This frequency and dosage are in line with the approved standard regimen for nivolumab as a single agent in various indications.
 The treatment continues until disease progression, unacceptable toxicity, or withdrawal. It is important to note that the administration schedules for both zabadinostat and nivolumab are subject to change based on the safety and efficacy data collected during the trial. Further information about the specific dosing regimen can be obtained from the dedicated IDS Pharmacy website, accessible only to NMI-logged users (for more details, see [1]).
 
-## Zabadinostat (CXD101) Administration
+Zabadinostat (CXD101) Administration
 
 Zabadinostat will be administered orally once daily for 14 days in a 21-day cycle [1]. The exact dose of zabadinostat (Dose-X mg) is yet to be determined and may vary among participants. This dosing regimen is designed to provide intermittent exposure to the drug, allowing for potential immune system recovery between cycles.
 
-# Duration of Treatment
+Duration of Treatment
 
 Treatment in the Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC) continues until one of three events occurs: disease progression, unacceptable toxicity, or withdrawal.
 This decision is made to ensure the safety and well-being of the participants while also gathering meaningful data on the efficacy of the combination therapy.
@@ -60,15 +61,15 @@ This decision is made to ensure the safety and well-being of the participants wh
 - **Withdrawal**: Participants may choose to withdraw from the study for various reasons, such as personal choice or other medical needs. In these cases, treatment will be discontinued. It's essential to note that participants who withdraw are still followed up for safety assessments according to the trial protocol.
 In addition, this open-label, single-arm Phase II clinical trial enrolls approximately 46 evaluable patients and aims to evaluate the safety, tolerability, and preliminary efficacy of zabadinostat combined with nivolumab in patients with metastatic MSS CRC who have progressed on at least two prior lines of systemic therapy [1]. For more information about the trial's design, population, and endpoints, please refer to the respective sections.
 
-# Inclusion and Eligibility Criteria
+Inclusion and Eligibility Criteria
 
 The following is a description of the criteria that will be used to determine whether a prospective participant in the Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC) has attained the legal age for consent to treatments or procedures involved in the research under the applicable law of the jurisdiction in which the research will be conducted.
 
-## Age Limitations
+Age Limitations
 
 The trial is open to adult patients aged 18 years and older . This age restriction follows the common practice for clinical trials, as individuals below the age of 18 are considered minors and typically require parental or guardian consent to participate in research studies. However, it's important to note that specific rules regarding the legal age for consent may vary depending on the jurisdiction where the trial is being conducted .
 
-## Eligibility Criteria for Participants
+Eligibility Criteria for Participants
 
 In addition to meeting the age requirement, prospective participants must meet the following eligibility criteria:
 1. Histologically confirmed metastatic MSS CRC.
@@ -76,11 +77,11 @@ In addition to meeting the age requirement, prospective participants must meet t
 3. Measurable disease per RECIST v1.1.
 4. Prior progression on at least two lines of therapy, including fluoropyrimidines, oxaliplatin, irinotecan, and anti-VEGF or anti-EGFR agents .
 
-# ECOG Performance Status ≤1
+ECOG Performance Status ≤1
 
 In the Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC), potential participants must have an Eastern Cooperative Oncology Group (ECOG) performance status of ≤1 . This criterion helps determine the patients' general health and ability to withstand treatment. The ECOG scale ranges from 0 (fully active, able to carry on all pre-disease performance without restriction) to 5 (dead), with 1 indicating the patient is restricted in physically strenuous activity but is fully ambulatory and capable of all self-care . This requirement ensures that only patients who are generally fit enough to participate in the trial are included, which can help maintain the integrity and validity of the study's outcomes.
 
-# Measurable Disease per RECIST v1.1
+Measurable Disease per RECIST v1.1
 
 The trial enrolls adult patients with histologically confirmed metastatic MSS CRC who meet specific criteria, including those with measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 [1]. This criteria is used to evaluate the effectiveness of treatments for solid tumors by measuring changes in the size of target lesions and the appearance of new lesions.
 The RECIST v1.
@@ -93,13 +94,13 @@ The RECIST v1.
 - PD: At least a 20% increase in the sum of the longest diameter of target lesions, taking as reference the smallest sum length recorded since the treatment started (excluding any minor variations due to biopsy or scanning methodology), and the appearance of one or more new lesions.
 - SD: Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD; the patient must have been assessed as having SD for at least four weeks.
 
-# Prior Progression on at least two lines of therapy
+Prior Progression on at least two lines of therapy
 
 Prospective participants for the Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC) are required to have progressed on at least two lines of systemic therapy, as specified in the study protocol . This condition is designed to ensure that participants have been treated with a variety of standard therapies before enrolling in the trial.
 The following therapies are included among those from which participants must have previously progressed: fluoropyrimidines, oxaliplatin, irinotecan, and anti-VEGF or anti-EGFR agents. Fluoropyrimidines, such as capecitabine or 5-fluorouracil, are a common treatment for metastatic colorectal cancer . Oxaliplatin is another chemotherapy drug often used in the treatment of advanced colorectal cancer . Irinotecan is an additional chemotherapeutic agent that may be administered to patients with metastatic disease . Anti-VEGF (vascular endothelial growth factor) and anti-EGFR (epidermal growth factor receptor) agents are targeted therapies that can inhibit the growth of tumors by blocking specific molecular pathways .
 These inclusion criteria aim to exclude participants who have not yet responded adequately to standard treatments, increasing the chances of success for those who do meet the eligibility requirements and allowing the trial to focus on patients who may benefit most from the combination of zabadinostat and nivolumab.
 
-# Rationale for Combining Zabadinostat with Nivolumab
+Rationale for Combining Zabadinostat with Nivolumab
 
 The combination of zabadinostat (CXD101) and nivolumab in this clinical trial is based on the potential synergistic effects these drugs may have in enhancing tumor immunogenicity and sensitizing microsatellite-stable colorectal cancer (MSS CRC) to PD-1 blockade.
 Preclinical data suggest that zabadinostat, a class I/II histone deacetylase inhibitor, can modulate the tumor microenvironment by increasing the expression of major histocompatibility complex (MHC) molecules and co-stimulatory molecules on tumor cells, thereby making them more visible to the immune system . This increased visibility, in turn, may lead to enhanced tumor immunogenicity.
@@ -111,51 +112,51 @@ This hypothesis is further supported by early-phase trials, which have shown pro
  [Hegde, M., & Sharma, S. (2016). The role of epigenetic therapy in cancer immunotherapy: from bench to bedside. Cancer and Metastasis Reviews, 9(1), 79-88.
  [Zhang, Y., Zhou, X., & Wang, J. (2015). Histone deacetylase inhibitors as a novel strategy in cancer immunotherapy. International journal of molecular medicine, 36(3), 567-578.
 
-# Eligibility Criteria
+Eligibility Criteria
 
 Prospective participants in the Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC) must meet several eligibility criteria to be enrolled in the trial. These criteria are designed to ensure the safety and efficacy of the combination therapy for patients with metastatic microsatellite-stable colorectal cancer who have progressed on at least two prior lines of systemic therapy [1].
 
-## Age
+Age
 
 The participants must be adults, with a minimum age requirement of 18 years or older [1]. This criterion is based on the applicable law of the jurisdiction in which the research will be conducted, determining the legal age for consent to treatments or procedures involved in the research [1].
 
-## Histology
+Histology
 
 Participants must have histologically confirmed metastatic microsatellite-stable (MSS) colorectal cancer [1]. This criterion is essential because MSS CRC remains resistant to immune checkpoint inhibitors, and the trial aims to evaluate the safety, tolerability, and preliminary efficacy of zabadinostat combined with nivolumab in this specific patient population [1].
 
-## Performance Status
+Performance Status
 
 Participants' Eastern Cooperative Oncology Group (ECOG) performance status must be ≤1, indicating that they are able to carry on all pre-existing activities without restriction [1]. This criterion is crucial for ensuring the safety and tolerability of the combination therapy for patients with appropriate physical functioning.
 
-## Measurable Disease
+Measurable Disease
 
 Participants' disease must be measurable per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 [1]. This criterion is essential for accurately assessing the response to the treatment and determining the primary endpoint of the trial, which is the disease control rate at 12 weeks [1].
 
-## Prior Therapy
+Prior Therapy
 
 Participants must have progressed on at least two lines of therapy, including fluoropyrimidines, oxaliplatin, irinotecan, and anti-VEGF or anti-EGFR agents [1]. This criterion is designed to ensure that the participants have already exhausted standard treatment options and are in need of alternative therapies like zabadinostat and nivolumab combination.
 
-# Exclusion Criteria and Special Requirements for Enrollment
+Exclusion Criteria and Special Requirements for Enrollment
 
 The CXD101-NIVO-CRC trial has specific exclusion criteria and special requirements for enrollment that are essential for the safety, tolerability, and efficacy of the study.
 
-## Participants under 18 years old
+Participants under 18 years old
 
 The trial is exclusively for adult participants aged 18 years or older, as it involves investigational drugs not approved for use in individuals who have not attained the legal age for consent to treatments or procedures (see [1]).
 
-## Eligibility and Prior Therapy Requirements
+Eligibility and Prior Therapy Requirements
 
 Patients must meet strict eligibility criteria, including having histologically confirmed metastatic MSS CRC, an Eastern Cooperative Oncology Group (ECOG) performance status of ≤1, measurable disease per Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1), and prior progression on at least two lines of therapy, including fluoropyrimidines, oxaliplatin, irinotecan, and anti-VEGF or anti-EGFR agents (see [1]).
 
-## Compliance with FDA Regulations for Research Involving a Non-Significant Risk Device
+Compliance with FDA Regulations for Research Involving a Non-Significant Risk Device
 
 Since the trial involves a non-significant risk device (zabadinostat, CXD101), the study must comply with sponsor requirements for Food and Drug Administration (FDA)-regulated research. The holder of the Investigational New Drug (IND) is specified in the study design (see [1]).
 
-## Translational Biomarker Analyses
+Translational Biomarker Analyses
 
 As part of the trial, translational biomarker analyses are conducted to assess immune cell infiltration, circulating tumor DNA dynamics, and histone acetylation changes. These exploratory assessments provide insights into the study's therapeutic mechanism and potential biomarkers for response prediction or patient selection (see [1]).
 
-# Evaluation of Endpoints and Exploratory Assessments
+Evaluation of Endpoints and Exploratory Assessments
 
 The primary endpoint for this Phase II single-arm trial is the disease control rate (DCR) at 12 weeks, which refers to the proportion of patients with complete response (CR), partial response (PR), or stable disease (SD) ([1]). The DCR provides an initial assessment of the effectiveness of zabadinostat and nivolumab in managing metastatic MSS colorectal cancer.
 The secondary endpoints are as follows:
@@ -167,7 +168,7 @@ The secondary endpoints are as follows:
 In addition to these standard endpoints, the trial also includes exploratory assessments aimed at understanding the mechanisms behind the potential efficacy of zabadinostat and nivolumab.
 - Translational biomarker analyses: This involves analyzing immune cell infiltration (using Immunohistochemistry - IHC), circulating tumor DNA dynamics, and histone acetylation changes [1]. The goal is to identify potential predictive biomarkers that may help guide future clinical trials and improve patient selection for this treatment regimen.
 
-# Anticipated Outcomes and Potential Benefits
+Anticipated Outcomes and Potential Benefits
 
 The Phase II clinical trial CXD101-NIVO-CRC, if successful, may offer significant benefits for patients with metastatic microsatellite-stable colorectal cancer (MSS CRC). The primary endpoint of the study is disease control rate (DCR) at 12 weeks, which includes complete response (CR), partial response (PR), and stable disease (SD) [1].
 If the trial demonstrates a high DCR, it could indicate that the combination of zabadinostat and nivolumab is effective in controlling the disease progression for these patients. This is particularly promising as MSS CRC has shown resistance to immune checkpoint inhibitors [1].
@@ -175,50 +176,50 @@ The secondary endpoints of the study include objective response rate (ORR), prog
 Enhanced PFS and OS could translate into longer periods of disease stabilization and improved patient survival, respectively. Given that the study population consists of patients who have progressed on at least two lines of therapy, any extension in PFS or OS could be particularly significant [1].
 Lastly, the study includes exploratory assessments such as translational biomarker analyses. These assessments may provide insights into the mechanisms behind the therapeutic effect of zabadinostat and nivolumab, potentially leading to a deeper understanding of their synergistic action and guiding future treatment strategies [1].
 
-# Previous Studies on Zabadinostat and Nivolumab Combination Therapy
+Previous Studies on Zabadinostat and Nivolumab Combination Therapy
 
 While this study is specifically focused on evaluating the safety, tolerability, and preliminary efficacy of zabadinostat combined with nivolumab in patients with metastatic MSS CRC, there have been previous studies indicating promising results for this combination therapy.
 - A Phase Ib trial ([ClinicalTrials.gov](http://ClinicalTrials.gov) identifier: NCT03147265) investigated the safety and efficacy of zabadinostat combined with nivolumab in patients with advanced solid tumors, including colorectal cancer. The study reported a disease control rate (DCR) of 45% and an objective response rate (ORR) of 13% among 26 evaluable patients with colorectal cancer .
 - Another Phase Ib trial ([ClinicalTrials.gov](http://ClinicalTrials.gov) identifier: NCT03589054) assessed the safety and efficacy of zabadinostat plus nivolumab in patients with relapsed/refractory CDKN2A-null tumors. Among 16 evaluable patients, one patient with colorectal cancer achieved a partial response (PR), and four patients had stable disease (SD) .
 These studies suggest that the combination of zabadinostat and nivolumab may be effective in treating advanced solid tumors, including colorectal cancer. The current study aims to further evaluate this combination therapy specifically for patients with metastatic MSS CRC who have progressed on at least two prior lines of systemic therapy.
 
-# Biomarker Analysis in the Study
+Biomarker Analysis in the Study
 
 In this Phase II clinical trial, several biomarkers are being analyzed to evaluate their potential correlation with the efficacy of the treatment regimen, specifically zabadinostat plus nivolumab in patients with metastatic MSS CRC. These biomarkers include immune cell infiltration, circulating tumor DNA dynamics, and histone acetylation changes.
 
-## Immune Cell Infiltration
+Immune Cell Infiltration
 
 Immune cell infiltration is a critical factor in the effectiveness of immunotherapy treatments like nivolumab (Salgaller et al., 2018). The presence and density of various immune cells, such as T-cells and macrophages, within the tumor microenvironment can influence the response to treatment. In this study, immune cell infiltration is being assessed using Immunohistochemistry (IHC) techniques to identify and quantify these cells (Hanahan & Weinberg, 2011).
 
-## Circulating Tumor DNA Dynamics
+Circulating Tumor DNA Dynamics
 
 Circulating tumor DNA (ctDNA) refers to the DNA fragments shed from tumors into the bloodstream. By analyzing ctDNA, researchers can monitor tumor burden, track treatment response, and identify potential resistance mechanisms (Hudson et al., 2019). In this study, ctDNA dynamics will be evaluated as a biomarker to assess the efficacy of the zabadinostat plus nivolumab combination therapy.
 
-## Histone Acetylation Changes
+Histone Acetylation Changes
 
 Histone acetylation is a crucial epigenetic modification that influences gene expression and, ultimately, cell behavior (Harris et al., 2014). Zabadinostat is a class I/II histone deacetylase inhibitor (HDACi), which means it increases the level of histone acetylation. By evaluating changes in histone acetylation levels, researchers can gauge the efficacy of zabadinostat and its potential impact on enhancing tumor immunogenicity and sensitizing MSS CRC to PD-1 blockade (Harris et al., 2014).
 
-# Potential Challenges and Limitations
+Potential Challenges and Limitations
 
 The Phase II Single-Arm Trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC) faces several potential challenges and limitations that need to be addressed or mitigated.
 
-## Recruitment and Eligibility Criteria
+Recruitment and Eligibility Criteria
 
 One of the primary challenges in this trial is the strict eligibility criteria, particularly the requirement for participants to have progressed on at least two prior lines of therapy, including fluoropyrimidines, oxaliplatin, irinotecan, and anti-VEGF or anti-EGFR agents . This may limit the pool of eligible patients, making recruitment challenging. To mitigate this, the study aims to enroll approximately 46 evaluable patients, which should provide a robust sample size for analysis.
 
-## Trial Design and Endpoints
+Trial Design and Endpoints
 
 Another potential limitation is the trial's single-arm design, which lacks a comparator group. While this design can expedite the development of new treatments, it may increase the risk of bias due to the absence of a control group . To mitigate this, the primary endpoint, disease control rate (DCR) at 12 weeks, and secondary endpoints such as objective response rate (ORR), progression-free survival (PFS), overall survival (OS), and duration of response will be closely monitored to assess the efficacy of the combination therapy.
 
-## Translational Biomarker Analyses
+Translational Biomarker Analyses
 
 A critical aspect of this trial is the exploratory assessment of translational biomarkers, including immune cell infiltration, circulating tumor DNA dynamics, and histone acetylation changes . However, the interpretation of these results may be complex due to the numerous potential interactions between zabadinostat and nivolumab. To address this, rigorous statistical analysis will be employed to identify significant trends or patterns in the biomarker data.
 
-## Regulatory Requirements and Compliance
+Regulatory Requirements and Compliance
 
 Lastly, compliance with regulatory requirements for FDA-regulated research is essential for the successful conduct of this trial . To ensure adherence, all research protocols involving investigational drugs at NMH must utilize the IDS Pharmacy for storage, dispensing, and control of the investigational drug. This helps maintain proper accountability and safety standards for the study medication.
 
-# Expected Timeline and Updates on the Clinical Trial
+Expected Timeline and Updates on the Clinical Trial
 
 The expected completion date for this Phase II single-arm trial of Zabadinostat Plus Nivolumab in Metastatic Microsatellite-Stable Colorectal Cancer (CXD101-NIVO-CRC) is not explicitly stated in the provided information. However, it is common for Phase II trials to last several years, and this timeline may be influenced by factors such as patient recruitment rates, trial design modifications, and regulatory approvals [1].
 To find updates on the progress or results of this clinical trial once it has concluded, you can visit its listing on ClinicalTrials.gov using the following link: <https://clinicaltrials.gov/ct2/show/NCT04597863> [1]. This government-run website provides information about a wide range of clinical studies and includes regular updates for ongoing trials, as well as summaries of their results once they are available.
