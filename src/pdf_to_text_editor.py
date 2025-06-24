@@ -25,9 +25,3 @@ if uploaded_file:
         file_name=filename,
         mime="text/plain"
     )
-    # Save button
-    if st.button("💾 Save Text to File"):
-        output_filename = uploaded_file.name.replace(".pdf", ".txt")
-        with open(f"converted_texts/{output_filename}", "w", encoding="utf-8") as f:
-            f.write(edited_text)
-        st.success(f"Saved to: converted_texts/{output_filename}")
