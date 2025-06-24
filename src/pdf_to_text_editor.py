@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 import fitz 
 
 st.set_page_config(page_title="PDF to Editable Text", layout="wide")
@@ -18,16 +17,14 @@ if uploaded_file:
     st.subheader("📝 Editable Text Output")
     edited_text = st.text_area("You can review and edit the extracted text here:", value=text, height=600)
 
-
-    output_dir = "converted_texts"
-    os.makedirs(output_dir, exist_ok=True)  # 🔧 Create folder if it doesn't exist
-
-    output_filename = uploaded_file.name.replace(".pdf", ".txt")
-    output_path = os.path.join(output_dir, output_filename)
-
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(edited_text)
-
+    # Prepare for download
+    filename = uploaded_file.name.replace(".pdf", ".txt")
+    st.download_button(
+        label="📥 Download Text File",
+        data=edited_text,
+        file_name=filename,
+        mime="text/plain"
+    )
     # Save button
     if st.button("💾 Save Text to File"):
         output_filename = uploaded_file.name.replace(".pdf", ".txt")
